@@ -1,0 +1,11 @@
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Celebrity_name\bin\Debug\Celebrity_name.exe.config
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Celebrity_name\bin\Debug\Celebrity_name.exe
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Celebrity_name\bin\Debug\Celebrity_name.pdb
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Celebrity_name\obj\Debug\Celebrity_name.csproj.AssemblyReference.cache
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Celebrity_name\obj\Debug\Celebrity_name.csproj.SuggestedBindingRedirects.cache
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Celebrity_name\obj\Debug\Celebrity_name.Form1.resources
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Celebrity_name\obj\Debug\Celebrity_name.Properties.Resources.resources
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Celebrity_name\obj\Debug\Celebrity_name.csproj.GenerateResource.cache
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Celebrity_name\obj\Debug\Celebrity_name.csproj.CoreCompileInputs.cache
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Celebrity_name\obj\Debug\Celebrity_name.exe
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Celebrity_name\obj\Debug\Celebrity_name.pdb
