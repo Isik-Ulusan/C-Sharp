@@ -1,0 +1,11 @@
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Score_calculator\bin\Debug\Score_calculator.exe.config
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Score_calculator\bin\Debug\Score_calculator.exe
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Score_calculator\bin\Debug\Score_calculator.pdb
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Score_calculator\obj\Debug\Score_calculator.csproj.AssemblyReference.cache
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Score_calculator\obj\Debug\Score_calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Score_calculator\obj\Debug\Score_calculator.Form1.resources
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Score_calculator\obj\Debug\Score_calculator.Properties.Resources.resources
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Score_calculator\obj\Debug\Score_calculator.csproj.GenerateResource.cache
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Score_calculator\obj\Debug\Score_calculator.csproj.CoreCompileInputs.cache
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Score_calculator\obj\Debug\Score_calculator.exe
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Score_calculator\obj\Debug\Score_calculator.pdb
