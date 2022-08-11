@@ -1,0 +1,11 @@
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Labyrinth\bin\Debug\Labyrinth.exe.config
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Labyrinth\bin\Debug\Labyrinth.exe
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Labyrinth\bin\Debug\Labyrinth.pdb
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Labyrinth\obj\Debug\Labyrinth.csproj.AssemblyReference.cache
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Labyrinth\obj\Debug\Labyrinth.csproj.SuggestedBindingRedirects.cache
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Labyrinth\obj\Debug\Labyrinth.Form1.resources
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Labyrinth\obj\Debug\Labyrinth.Properties.Resources.resources
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Labyrinth\obj\Debug\Labyrinth.csproj.GenerateResource.cache
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Labyrinth\obj\Debug\Labyrinth.csproj.CoreCompileInputs.cache
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Labyrinth\obj\Debug\Labyrinth.exe
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Labyrinth\obj\Debug\Labyrinth.pdb
