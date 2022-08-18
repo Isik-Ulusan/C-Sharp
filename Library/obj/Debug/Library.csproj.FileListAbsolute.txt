@@ -1,0 +1,11 @@
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Library\bin\Debug\Library.exe.config
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Library\bin\Debug\Library.exe
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Library\bin\Debug\Library.pdb
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Library\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Library\obj\Debug\Library.Form1.resources
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Library\obj\Debug\Library.exe
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Library\obj\Debug\Library.pdb
