@@ -1,0 +1,11 @@
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Pharmacy\obj\Debug\Pharmacy.csproj.SuggestedBindingRedirects.cache
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\YONETICI\Desktop\Coding\C#\Codes\ConsoleApp1\Pharmacy\obj\Debug\Pharmacy.pdb
